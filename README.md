@@ -1,3 +1,8 @@
+# Get here every fork of the best inventory system made with Godot.
+# Credits by alfredbaudisch
+Official github: https://github.com/alfredbaudisch/GodotDynamicInventorySystem
+
+
 # Dynamic Inventory System and UI for Godot
 ![Godot 3.4](https://img.shields.io/badge/godot-v3.4-%23478cbf) [![Donate using PayPal](https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/badges/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=FC5FTRRE3548C) [![Become a patron](https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/WebsiteAssets/images/badges/Patreon-Badge.svg)](https://www.patreon.com/alfredbaudisch) <a href='https://ko-fi.com/alfredbaudisch' target='_blank'><img height='22' style='border:0px;height:22px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' title='Buy Me a Coffee at ko-fi.com' /></a>
 
